@@ -1,0 +1,1225 @@
+[15/05/23, 17:46:49] Subodh Nadkar😁 (Imarticus Class): ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[15/05/23, 17:46:49] Rakesh Rao: https://leetcode.com/
+[21/05/23, 16:16:53] Rakesh Rao: https://leetcode.com/studyplan/top-sql-50/
+[28/05/23, 16:19:34] Rakesh Rao: Bhai tuja charger tu visrun gela ahais
+[03/06/23, 14:44:33] Subodh Nadkar😁 (Imarticus Class): insert into Employees values
+		(3,"Aman",22,"Mumbai",25000),
+        (5,"Jeevan",25,"Mumbai",45000),
+        (10,"Krutika",26,"Chennai",50000),
+        (12,"Raghav",28,"Pune",40000),
+        (11,"Prasad",23,"Pune",35000),
+        (9,"Nimisha",23,"Mumbai",49000),
+        (16,"Sayali",21,"Banglore",30000),
+        (20,"Nishita",24,"Banglore",55000),
+        (2,"Gaurav",25,"Mumbai",50000);
+[11/06/23, 13:57:34] Subodh Nadkar😁 (Imarticus Class): Hello
+[11/06/23, 13:57:49] Subodh Nadkar😁 (Imarticus Class): tu pegasus chi link send kar na
+[11/06/23, 13:57:56] Rakesh Rao: Ha bhai
+[11/06/23, 13:58:59] Rakesh Rao: https://pegasus.imarticus.org/dashboard/
+[11/06/23, 14:05:08] Subodh Nadkar😁 (Imarticus Class): bhai chalu jhali ?
+[11/06/23, 14:05:52] Rakesh Rao: nai bhai
+‎[11/06/23, 14:07:59] Rakesh Rao: ‎image omitted
+[11/06/23, 14:08:24] Subodh Nadkar😁 (Imarticus Class): and what about sql?
+‎[11/06/23, 14:10:46] Rakesh Rao: ‎image omitted
+[11/06/23, 14:14:59] Rakesh Rao: bhai atta solve karto ahais ka?
+[11/06/23, 14:15:25] Subodh Nadkar😁 (Imarticus Class): haa
+[11/06/23, 14:15:34] Subodh Nadkar😁 (Imarticus Class): pan excell madhe help kar
+[11/06/23, 14:15:46] Subodh Nadkar😁 (Imarticus Class): 😅
+[11/06/23, 14:16:44] Rakesh Rao: Milke solve karte hai kya
+[11/06/23, 14:17:50] Subodh Nadkar😁 (Imarticus Class): haa
+[11/06/23, 14:17:57] Subodh Nadkar😁 (Imarticus Class): 1st hua excell ka ?
+[11/06/23, 14:39:13] Rakesh Rao: nai re
+[11/06/23, 14:39:29] Rakesh Rao: atta start karto ahai
+[11/06/23, 14:56:37] Subodh Nadkar😁 (Imarticus Class): okok sang mala excell
+[11/06/23, 14:57:17] Rakesh Rao: pahila question zala tuza?
+[11/06/23, 14:57:28] Subodh Nadkar😁 (Imarticus Class): nope me sql kartoy
+[11/06/23, 14:58:08] Rakesh Rao: Ok
+[11/06/23, 15:00:20] Rakesh Rao: ANswer submit khute karaycha
+[11/06/23, 15:00:22] Rakesh Rao: ?
+[11/06/23, 15:00:44] Subodh Nadkar😁 (Imarticus Class): are excell madhech karayche
+[11/06/23, 15:01:31] Rakesh Rao: Mag upload ?
+[11/06/23, 15:02:13] Subodh Nadkar😁 (Imarticus Class): te nantar baghu adhi solve tar kar
+[11/06/23, 15:03:21] Rakesh Rao: haa
+[11/06/23, 15:29:41] Subodh Nadkar😁 (Imarticus Class): jhala excell
+[11/06/23, 15:29:42] Subodh Nadkar😁 (Imarticus Class): ??
+[11/06/23, 15:38:23] Rakesh Rao: almost
+‎[11/06/23, 15:45:49] Rakesh Rao: 167542529441360ec2379f8793842aa5b168a_.xlsx ‎document omitted
+[11/06/23, 15:45:53] Rakesh Rao: 10 question nai samjla
+[11/06/23, 15:46:54] Rakesh Rao: SQL bata jara
+[11/06/23, 15:47:08] Subodh Nadkar😁 (Imarticus Class): bhai thoda baki hai
+[11/06/23, 15:47:22] Subodh Nadkar😁 (Imarticus Class): kuch questions ai confusion bhi hai
+[11/06/23, 15:47:27] Subodh Nadkar😁 (Imarticus Class): ek min
+[11/06/23, 15:48:02] Rakesh Rao: Jaldi 15 mins hi hai
+[11/06/23, 15:48:14] Subodh Nadkar😁 (Imarticus Class): 6 tak hai bhai
+[11/06/23, 15:48:27] Rakesh Rao: Sachi?
+[11/06/23, 15:54:52] Subodh Nadkar😁 (Imarticus Class): https://meet.google.com/wsp-jkfw-rue
+[11/06/23, 15:55:14] Subodh Nadkar😁 (Imarticus Class): bhai ye
+[24/06/23, 12:41:02] Rakesh Rao: https:// skillsforall.com/course/introduction-data-science?courseLang=en-US
+[25/06/23, 12:24:46] Subodh Nadkar😁 (Imarticus Class): num=float(input("Enter a number : "))
+if num%2==0:
+    print("Number ",num, " is even")
+else:
+    print("Number ",num," is odd")
+    
+def Greeting():
+    print("Hello User")
+    print("How are you")
+
+Greeting()
+
+def UserGreeting(name):
+    print("Hello ",name)
+    print("How are you")
+    
+name = input("Enter user's name")
+UserGreeting(name)
+
+def calc(a,b):
+    print("Addition is ",a+b)
+    print("Subtraction is ",a-b)
+    print("Multiplication is ",a*b)
+    print("division is ",a/b)
+
+calc(10,5)
+
+num1 = float(input("Enter 1st number :=> "))
+num2 = float(input("Enter 2nd number :=> "))
+calc(num1,num2)
+
+def cube(a):
+    print("Value is :=> ",a)
+    print("The Cube is => ",a*a*a)
+    
+cube(5)
+cube(20)
+
+num = float(input("Enter a number :=> "))
+cube(num)
+
+def cube(a):
+    print("Value is :=> ",a)
+    return a*a*a   # using retur we can store the value of functon in a variable as it will give
+                    #the output and not message
+
+cube(10)
+
+cube_value = cube(5)
+
+print(cube_value-25)
+
+def hi():
+    print("Hello User")
+    a=10   # here a and b both are local variable
+    b=20
+    print(a*b)
+    
+hi()
+
+def evenOrOdd(num):
+    #num=float(input("Enter a number : "))
+    if num==0 or num == 1:
+        print("Enter a valid number")
+    elif num%2==0:
+        print("Number ",num, " is even")
+    else:
+        print("Number ",num," is odd")
+        
+num=float(input("Enter a number : "))
+evenOrOdd(num)
+
+'''
+***** WHILE ********
+1] Initialization of the iterator Variable
+2] COndition  Evaluation
+3] increment/decrement
+
+i=1
+while(i<=10)
+#logic
+i+=1
+
+'''
+
+i=1
+while(i<=10):
+    print(i)
+    i+=1
+    
+i=10
+while(i>=1):
+    print(i)
+    i-=1
+    
+i=1
+while(i<=100):
+    if i%2 == 0:
+        print(i,"is even number")
+    else:
+        print(i,"s odd number")
+    i+=1
+    
+count = 0
+while(count<=5):
+    print(count**2)
+    count+=1
+print("out of while")
+
+count = 0
+while(count<=5):
+    count+=1    # Pre Increment
+    print(count**2)
+else:              # This else with while is optional
+    print("out of while")
+    
+'''
+for <Iterator_variable> in <Data_structure_name>
+'''
+list_names = ["Subodh","Rakesh","somu"]
+for i in list_names:
+    print("Hello",i)
+    
+for j in range(1,11):
+    print(j)
+    
+list_names = ["Subodh","Rakesh","somu"]
+for i in list_names[::-1]:
+    print("Hello",i)
+    
+name="Subodh"
+name[::-1]
+
+for i in range(1,10+1):
+    print("5 *",i,"=",5*i)
+    
+i=1
+while(i<=10):
+    print("5 *",i,"=",5*i)
+    i+=1
+[25/06/23, 16:15:11] Subodh Nadkar😁 (Imarticus Class): https://justpaste.it/azmul
+[08/07/23, 15:34:14] Rakesh Rao: # print(np.dot(x,y))
+# print(np.add(x,y))
+
+# np.add(), np.subtract(), np.multiply(), np.divide(), np.remainder()
+[11/07/23, 15:54:18] Subodh Nadkar😁 (Imarticus Class): Hello pandas sathi navin notebook banavli ashil na
+[11/07/23, 15:54:19] Subodh Nadkar😁 (Imarticus Class): ?
+[11/07/23, 15:54:25] Subodh Nadkar😁 (Imarticus Class): share kar na
+[11/07/23, 15:54:50] Rakesh Rao: Hello
+[11/07/23, 15:55:21] Rakesh Rao: Ghari Jaun karto
+[11/07/23, 19:01:00] Subodh Nadkar😁 (Imarticus Class): ok
+[11/07/23, 19:01:27] Rakesh Rao: 👍🏻
+‎[11/07/23, 23:30:04] Rakesh Rao: Pandas-09-07-2023.ipynb ‎document omitted
+[15/07/23, 15:12:52] Subodh Nadkar😁 (Imarticus Class): https://drive.google.com/drive/folders/1UrVBS-3c4oFnb-ojULrohLAP6qxjY9gB?usp=sharing
+[06/08/23, 15:12:37] Subodh Nadkar😁 (Imarticus Class): as value of skew is very close to "0" which implies skewness is very low henc it follows approximate normal distribution
+‎[12/08/23, 20:12:58] Rakesh Rao: Python Mocks Questionnaire (1).xlsx ‎document omitted
+[12/08/23, 20:13:27] Rakesh Rao: Yetnach vicharla
+[12/08/23, 21:52:44] Subodh Nadkar😁 (Imarticus Class): Thank you so much sir
+[12/08/23, 22:40:12] Rakesh Rao: Your welcome sir
+[14/08/23, 15:30:53] Rakesh Rao: Sir kasa gelela mock?
+[14/08/23, 16:44:08] Subodh Nadkar😁 (Imarticus Class): changla gela bro
+[14/08/23, 16:44:13] Subodh Nadkar😁 (Imarticus Class): tuza kasa gela
+[14/08/23, 16:44:16] Subodh Nadkar😁 (Imarticus Class): ??
+[14/08/23, 16:45:06] Rakesh Rao: Maja pan
+[14/08/23, 16:45:19] Rakesh Rao: Charch question vicharla
+[14/08/23, 16:45:36] Rakesh Rao: Placement pool kadhi chalu hoto ahi re?
+[14/08/23, 16:45:40] Subodh Nadkar😁 (Imarticus Class): sahi hai bhai
+[14/08/23, 16:45:46] Subodh Nadkar😁 (Imarticus Class): 1 sem nantar
+[14/08/23, 16:46:13] Subodh Nadkar😁 (Imarticus Class): after statistics Apli exam honar and tyachya nantar I guess
+[14/08/23, 16:48:23] Rakesh Rao: Okk
+[14/08/23, 16:48:35] Rakesh Rao: Manje ajun 2 mahina ?
+[14/08/23, 16:48:46] Subodh Nadkar😁 (Imarticus Class): probably
+[14/08/23, 16:49:01] Subodh Nadkar😁 (Imarticus Class): stats nantar kay asel ajun tar no idea
+[14/08/23, 16:49:36] Subodh Nadkar😁 (Imarticus Class): but I guess excell,sql,python , statistics covers first sem
+[14/08/23, 16:50:03] Rakesh Rao: Haa barabar
+[14/08/23, 16:50:30] Subodh Nadkar😁 (Imarticus Class): statistics kadhi paryanta chalel any idea
+[14/08/23, 16:50:31] Subodh Nadkar😁 (Imarticus Class): ?
+[14/08/23, 16:50:41] Subodh Nadkar😁 (Imarticus Class): 2 week ajun ?
+[14/08/23, 16:52:44] Rakesh Rao: Probably
+[20/08/23, 09:51:54] Subodh Nadkar😁 (Imarticus Class): hello bahi
+[20/08/23, 09:52:00] Subodh Nadkar😁 (Imarticus Class): jhali ka exam?
+[20/08/23, 11:00:07] Rakesh Rao: Kadhi re?
+[20/08/23, 11:00:23] Subodh Nadkar😁 (Imarticus Class): are pegasus war exam paper alay bagh
+[20/08/23, 11:00:43] Rakesh Rao: Tu I dila ka ?
+[20/08/23, 11:01:04] Rakesh Rao: ??
+[20/08/23, 11:01:16] Rakesh Rao: Tu start kela ahais ?
+[20/08/23, 11:01:22] Subodh Nadkar😁 (Imarticus Class): haa start keli
+[20/08/23, 11:01:32] Subodh Nadkar😁 (Imarticus Class): 6 question jhale
+[20/08/23, 11:01:44] Rakesh Rao: Don min tham min tham maja Satti
+[20/08/23, 11:01:56] Rakesh Rao: Me attach utlo
+[20/08/23, 11:02:00] Subodh Nadkar😁 (Imarticus Class): 7th qustion la dataset avail nhi ahhe
+[20/08/23, 11:02:50] Subodh Nadkar😁 (Imarticus Class): me google meet chi link patavto
+[20/08/23, 11:02:53] Subodh Nadkar😁 (Imarticus Class): hahahahaha
+[20/08/23, 11:02:55] Rakesh Rao: Tham jara me fresh houn call karto
+[20/08/23, 11:03:01] Subodh Nadkar😁 (Imarticus Class): haa haa
+[20/08/23, 11:03:03] Rakesh Rao: Best
+[20/08/23, 11:03:09] Subodh Nadkar😁 (Imarticus Class): ok
+[20/08/23, 11:03:45] Subodh Nadkar😁 (Imarticus Class): https://meet.google.com/nwh-apsh-drx
+[20/08/23, 11:04:44] Subodh Nadkar😁 (Imarticus Class): hya link war join ho tu
+[20/08/23, 11:08:37] Rakesh Rao: Request Accept kar
+[20/08/23, 11:34:05] Subodh Nadkar😁 (Imarticus Class): def calculate_income_tax(income):
+    if income <=10000:
+        tax=0
+    elif income>10000 and income<=20000:
+        tax=(income-10000)*0.10
+    else:
+        tax = 10000 * 0.10 + (income - 20000) * 0.20
+    return tax
+
+income=float(input("Please enter your income : "))
+income_tax = calculate_income_tax(income)
+print (f"Income Tax on income : {income} is {income_tax}")
+[20/08/23, 11:39:29] Subodh Nadkar😁 (Imarticus Class): positive = ['good','awesome', 'best', 'nice']
+negative = ['worst','awful', 'bad']
+tweets = ['This government policies are good', 
+          'bad implementation', 
+          'The way he played showed that he is one of the best players in the world', 
+          'Her acting in the play was awesome', 
+          'The wine tastes awful',
+          "It's nice to hear this little kid's laugh"]
+
+positive_tweets = []
+negative_tweets = []
+
+for tweet in tweets:
+    words = tweet.split()
+    for word in words:
+        if word in positive:
+            positive_tweets.append(tweet)
+        elif word in negative:
+            negative_tweets.append(tweet)
+print(f"Positive_tweets are : {positive_tweets}")
+print()
+print(f"Negative_tweets are : {negative_tweets}")
+‎[20/08/23, 12:40:37] Subodh Nadkar😁 (Imarticus Class): iris.csv ‎document omitted
+[26/08/23, 12:16:02] Rakesh Rao: Subodh sir
+[26/08/23, 12:17:53] Subodh Nadkar😁 (Imarticus Class): bola sir
+[26/08/23, 12:18:19] Rakesh Rao: Lecture la yeta ahai ki nai sir
+[26/08/23, 12:21:35] Subodh Nadkar😁 (Imarticus Class): yetoy sir
+[27/08/23, 20:09:28] Rakesh Rao: https://github.com/AbhishekGit-hash/Data-Analytics-Customer-Segmentation
+[16/09/23, 13:59:02] Rakesh Rao: JOin kelas ka?
+[16/09/23, 13:59:39] Subodh Nadkar😁 (Imarticus Class): not yet
+[16/09/23, 13:59:43] Subodh Nadkar😁 (Imarticus Class): link share kar
+[16/09/23, 14:00:48] Rakesh Rao: https://zoom.us/wc/94628874561/join?track_id=&jmf_code=&meeting_result=&tk=Qiheq6-zjC-XapX_Fw7kacjKUczjFqoLMEYb1viIip8.DQMAAAAWCFIJQRZTWGJwT2hIblJwNkdhRWJheE5WX1VBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&cap=undefined&refTK=&rn=false&epk=b_d2JSyk5ptm8I9h8YHP-MofPE8zXOxR3PULaogEu22sb0UfQJU.ysQCRDRCTrPGMk-K&wpk=wcpk%7B0%7D%26%26%26%26wcpk0e4f9534e773d9f123af14e544288d69
+[16/09/23, 14:00:51] Subodh Nadkar😁 (Imarticus Class): join kela
+[16/09/23, 14:01:08] Subodh Nadkar😁 (Imarticus Class): but audio video mute kasa karta bhai
+[16/09/23, 14:01:28] Rakesh Rao: adhich karaych
+[16/09/23, 14:01:46] Subodh Nadkar😁 (Imarticus Class): ok leave karun parat yeto
+[16/09/23, 14:01:55] Rakesh Rao: haa
+[16/09/23, 14:32:49] Subodh Nadkar😁 (Imarticus Class): share that link
+[16/09/23, 14:33:01] Rakesh Rao: mala pan nai bhetla
+‎[17/09/23, 10:39:49] Rakesh Rao: ‎image omitted
+[17/09/23, 10:40:04] Subodh Nadkar😁 (Imarticus Class): Same
+[17/09/23, 10:40:07] Subodh Nadkar😁 (Imarticus Class): Bhai
+[17/09/23, 12:25:57] Rakesh Rao: Test chalu Zala ka ?
+[17/09/23, 12:26:11] Subodh Nadkar😁 (Imarticus Class): Nope
+[17/09/23, 12:26:30] Rakesh Rao: Mag nai aahi ka ?
+[17/09/23, 12:26:39] Subodh Nadkar😁 (Imarticus Class): Aahe
+[17/09/23, 12:26:55] Subodh Nadkar😁 (Imarticus Class): Nikita mam bolli ki upload karnar
+[17/09/23, 12:27:07] Rakesh Rao: Okk
+[17/09/23, 12:27:23] Subodh Nadkar😁 (Imarticus Class): Kalavto bhai chalu jhali ka
+[17/09/23, 13:30:14] Rakesh Rao: Kya hua bhai
+[17/09/23, 13:30:28] Subodh Nadkar😁 (Imarticus Class): nhi aya bhai
+[17/09/23, 13:30:35] Rakesh Rao: Okk
+[17/09/23, 14:09:47] Rakesh Rao: Zala ka issue resolved??
+[17/09/23, 14:10:47] Subodh Nadkar😁 (Imarticus Class): Nope bhai
+[17/09/23, 14:43:02] Subodh Nadkar😁 (Imarticus Class): Bhai exam aali ye lavkar bhai
+[17/09/23, 14:45:36] Rakesh Rao: Bhetla ka paper ?
+[17/09/23, 14:45:45] Subodh Nadkar😁 (Imarticus Class): haa
+[17/09/23, 15:15:41] Rakesh Rao: Bhai Mala thoda time janar
+[17/09/23, 15:16:20] Subodh Nadkar😁 (Imarticus Class): okok ye aramat me baghto jevde hotat te karto bakiche karu sobat
+[17/09/23, 15:16:28] Rakesh Rao: Haa
+[17/09/23, 15:16:38] Rakesh Rao: Aaj Purna divas ahai na ?
+[17/09/23, 15:27:16] Subodh Nadkar😁 (Imarticus Class): dont know bhai
+[17/09/23, 16:27:32] Rakesh Rao: Bhai Zala ka ?
+[17/09/23, 17:07:04] Subodh Nadkar😁 (Imarticus Class): https://meet.google.com/bix-dtxk-hfv
+[17/09/23, 17:22:24] Rakesh Rao: Bhai Code send kar
+[17/09/23, 17:27:22] Subodh Nadkar😁 (Imarticus Class): 1-
+[17/09/23, 17:27:24] Subodh Nadkar😁 (Imarticus Class): diamonds = 13
+hearts = 13
+spades = 13
+total_cards = 52
+probability = (diamonds/total_cards) * (hearts/(total_cards-1)) * (spades/(total_cards-2))
+print("The probability of drawing one diamond, one heart, and one spade is:", probability)
+[17/09/23, 17:27:26] Subodh Nadkar😁 (Imarticus Class): 2
+[17/09/23, 17:27:52] Subodh Nadkar😁 (Imarticus Class): #a. Favorite movie type is either action or drama.
+
+prob_action = 0.42
+prob_drama = 0.36
+
+action_or_drama = prob_action + prob_drama
+print(f"Probability of liking either action or drama: {action_or_drama}")
+
+#a. Favorite movie type is either action or drama.
+
+prob_action = 0.42
+prob_drama = 0.36
+
+action_or_drama = prob_action + prob_drama
+print(f"Probability of liking either action or drama: {action_or_drama}")
+[17/09/23, 17:27:56] Subodh Nadkar😁 (Imarticus Class): 3
+[17/09/23, 17:28:13] Subodh Nadkar😁 (Imarticus Class): prob_Black_ball = 12/19
+prob_bagB = 7/19
+probability =prob_bagB/ prob_Black_ball
+print(f"probability of bag B is selected is {probability}")
+[17/09/23, 17:28:38] Subodh Nadkar😁 (Imarticus Class): 4
+[17/09/23, 17:28:40] Subodh Nadkar😁 (Imarticus Class): #a. Receiving 10 applications in 1 minute.
+
+from scipy.stats import poisson
+No_of_applications_per_minute = 450/60
+prob_a = poisson.pmf(10,No_of_applications_per_minute)
+print("Probability of receiving 10 applications in 1 minute:", prob)
+
+#b. Receiving at least 17 applications in 2 minutes.
+
+prob_b =1 - poisson.cdf(17,No_of_applications_per_minute*2)
+print("Probability of receiving at least 17 applications in 2 minutes:", prob_b)
+[17/09/23, 17:28:53] Subodh Nadkar😁 (Imarticus Class): 5
+[17/09/23, 17:28:54] Subodh Nadkar😁 (Imarticus Class): from scipy.stats import poisson
+from scipy.stats import binom
+
+years = 10
+average = 0.05
+binom_dist = binom(10,0.05)
+probability_less_than_3 = binom_dist.cdf(2)
+print("Probability of having less than 3 patients in a 10-year period:", probability_less_than_3)
+[17/09/23, 17:29:09] Subodh Nadkar😁 (Imarticus Class): 6
+[17/09/23, 17:29:13] Subodh Nadkar😁 (Imarticus Class): from scipy import stats
+mu = 350870
+sd = 12405
+percentile = 75
+percentile_price = stats.norm.ppf(percentile/100,loc=mu,scale=sd)
+print("The 75th percentile of price $",percentile_price)
+[17/09/23, 17:29:32] Subodh Nadkar😁 (Imarticus Class): 7
+[17/09/23, 17:29:34] Subodh Nadkar😁 (Imarticus Class): #H0 - Average no of road accidents are same in both citys
+#H1-Average no of road accidents are different in both city
+
+import numpy as np
+from scipy.stats import ttest_ind
+
+union_city = [44,21,36,34,77,32,29,39,92,65,45,37]
+mountain_city =[47,81,41,79,38,20,33,83,41,40,69,36]
+
+print(np.mean(union_city))
+print(np.mean(mountain_city))
+
+stat,p = ttest_ind(union_city,mountain_city)
+print("p-values : ",p," t_stat : ",stat)
+
+
+# since pvalue > 0.05, we fail to reject the null hypothesis, 
+#and conclude that the mean of the two samples are equal
+
+#Average no of road accidents are same in both citys is approximately same
+[17/09/23, 17:29:47] Subodh Nadkar😁 (Imarticus Class): 9
+[17/09/23, 17:29:49] Subodh Nadkar😁 (Imarticus Class): from scipy import stats
+rate = 76
+Number_of_pizzas_sold= 80
+
+
+probability_80_or_Less = stats.poisson.cdf(Number_of_pizzas_sold, rate)
+probability_exceed_80 = 1 - probability_80_or_Less
+
+print(f"The probability of selling more than 80 pizzas in a day is approximately {probability_exceed_80}")
+[17/09/23, 17:48:14] Rakesh Rao: import numpy as np
+from scipy import stats
+
+# Summary statistics for each group
+group1_mean = 44.5
+group1_std = 5
+group1_sample_size = 6
+
+group2_mean = 42
+group2_std = 5
+group2_sample_size = 6
+
+group3_mean = 46.5
+group3_std = 5
+group3_sample_size = 6
+
+# Generating sample data for each group based on the provided mean and standard deviation
+np.random.seed(0)  # for reproducibility
+group1_data = np.random.normal(group1_mean, group1_std, group1_sample_size)
+group2_data = np.random.normal(group2_mean, group2_std, group2_sample_size)
+group3_data = np.random.normal(group3_mean, group3_std, group3_sample_size)
+
+# Stack the data for ANOVA
+all_data = np.concatenate([group1_data, group2_data, group3_data])
+
+# Generate corresponding group labels
+group_labels = ['Group 1'] * group1_sample_size + ['Group 2'] * group2_sample_size + ['Group 3'] * group3_sample_size
+
+# Perform one-way ANOVA
+f_statistic, p_value = stats.f_oneway(group1_data, group2_data, group3_data)
+
+# Print the results
+print("F-statistic:", f_statistic)
+print("P-value:", p_value)
+[17/09/23, 18:07:17] Subodh Nadkar😁 (Imarticus Class): bhai patav n hite
+[17/09/23, 18:07:30] Rakesh Rao: F-statistic: 3.0335916082853
+P-value: 0.07827731152236281
+[17/09/23, 18:18:36] Rakesh Rao: import numpy as np
+from scipy import stats
+
+# Given data
+population_mean = 82  # Population mean weight
+sample_mean = 95  # Sample mean weight
+sample_std = 20  # Sample standard deviation
+sample_size = 25  # Sample size
+significance_level = 0.05  # Significance level
+
+# Perform one-sample t-test
+t_statistic, p_value = stats.ttest_1samp(sample_mean, population_mean)
+
+# Determine whether to reject the null hypothesis
+reject_null = p_value < significance_level
+
+# Output the results
+print("t-statistic:", t_statistic)
+print("P-value:", p_value)
+print("Reject null hypothesis:", reject_null)
+[17/09/23, 18:23:53] Rakesh Rao: import numpy as np
+from scipy import stats
+
+# Given data
+population_mean = 82  # Population mean weight
+sample_std = 20  # Sample standard deviation
+sample_size = 25  # Sample size
+significance_level = 0.05  # Significance level
+
+# Generate a sample of weights based on the provided mean and standard deviation
+np.random.seed(0)  # for reproducibility
+sample_weights = np.random.normal(population_mean, sample_std, sample_size)
+
+# Perform one-sample t-test
+t_statistic, p_value = stats.ttest_1samp(sample_weights, population_mean)
+
+# Determine whether to reject the null hypothesis
+reject_null = p_value < significance_level
+
+# Output the results
+print("t-statistic:", t_statistic)
+print("P-value:", p_value)
+print("Reject null hypothesis:", reject_null)
+[17/09/23, 18:46:43] Rakesh Rao: import numpy as np
+from scipy import stats
+
+# Observed frequencies of customers for each day of the week
+observed_frequencies = np.array([120, 110, 115, 125, 130, 140, 135])
+
+# Assuming equal frequencies for all days
+expected_frequency = np.sum(observed_frequencies) / len(observed_frequencies)
+
+# Calculate the chi-squared statistic
+chi_squared_statistic, p_value = stats.chisquare(observed_frequencies, expected_frequency)
+
+# Given significance level
+significance_level = 0.1
+
+# Determine whether to reject the null hypothesis
+reject_null = p_value < significance_level
+
+# Output the results
+print("Chi-squared statistic:", chi_squared_statistic)
+print("P-value:", p_value)
+print("Reject null hypothesis:", reject_null)
+[30/09/23, 14:37:34] Rakesh Rao: Sure, I'll provide brief explanations for each of the topics you've asked about.
+
+1. **Types of Variables:**
+   - **Categorical (Qualitative):** Gender (Male, Female), Color (Red, Blue, Green).
+   - **Numerical (Quantitative):** Age, Income, Weight.
+
+2. **Difference between Sample and Population:**
+   - **Population:** Entire set of individuals or instances.
+   - **Sample:** Subset of the population, used to make inferences about the population.
+
+3. **Measures of Central Tendency:**
+   - **Mean:** Average of all values.
+   - **Median:** Middle value when the data is arranged.
+   - **Mode:** Most frequently occurring value.
+
+4. **Measures of Dispersion:**
+   - **Range:** Difference between the maximum and minimum values.
+   - **Variance:** Measure of the data's spread from the mean.
+   - **Standard Deviation:** Square root of variance.
+
+5. **Skewness:**
+   - Skewness measures the asymmetry in the data's distribution.
+   - **Types:** Positive skew (right-tail elongation), negative skew (left-tail elongation).
+
+6. **Kurtosis:**
+   - Kurtosis measures the tailness or peakedness of a distribution.
+   - **Types:** Leptokurtic (high peak), mesokurtic (normal), platykurtic (low peak).
+
+7. **Correlation:**
+   - A measure of the strength and direction of the relationship between two variables.
+   - **Types:** Positive correlation, negative correlation, no correlation.
+   - *Example:* Positive correlation between study hours and exam scores.
+
+8. **Difference between Correlation and Covariance:**
+   - **Covariance:** Measures the direction of the linear relationship between variables.
+   - **Correlation:** Normalizes covariance, providing a standardized measure.
+
+9. **Properties of Normal Distribution:**
+   - Symmetrical and bell-shaped.
+   - Mean, median, and mode are equal.
+
+10. **Empirical Rule of Normal Distribution:**
+   - About 68% of data falls within one standard deviation from the mean.
+   - About 95% falls within two standard deviations.
+   - About 99.7% falls within three standard deviations.
+
+11. **Difference between Bernoulli and Binomial Distribution:**
+   - Bernoulli: One trial with two possible outcomes (success or failure).
+   - Binomial: Multiple independent Bernoulli trials.
+
+12. **Poisson Distribution:**
+   - Describes the number of events occurring in a fixed interval of time or space.
+   - Example: Number of emails received per hour.
+
+13. **Conditional Probability:**
+   - Probability of an event occurring given that another event has already occurred.
+   - *Example:* Probability of raining today given that it's cloudy.
+
+14. **Scaling Data:**
+   - Making variables comparable by bringing them to a standard scale.
+   - Techniques: Min-Max scaling, Standardization (Z-score), Normalization.
+
+15. **Outliers:**
+   - Data points significantly different from other observations.
+   - Detect using visualization, mathematical methods like IQR.
+
+16. **Boxplot and Histogram:**
+   - Boxplot: Graphical representation of data's summary statistics.
+   - Histogram: Visualization showing the distribution of a dataset.
+
+17. **Hypothesis Testing:**
+   - Statistical method to draw conclusions about a population based on sample data.
+
+18. **Null and Alternate Hypothesis:**
+   - **Null Hypothesis (H0):** No significant difference or effect.
+   - **Alternate Hypothesis (H1):** There is a significant difference or effect.
+
+19. **T-test:**
+   - Statistical test to determine if there's a significant difference between two groups.
+   - **Types:** One-sample t-test, independent t-test, paired t-test.
+
+20. **Z-test:**
+   - Statistical test to compare a sample mean with a known population mean.
+
+21. **When to Use T-test vs Z-test:**
+   - T-test: Small sample sizes (typically <30).
+   - Z-test: Large sample sizes (typically ≥30).
+
+22. **One-tailed vs Two-tailed Test:**
+   - One-tailed: Tests for a specific direction of difference.
+   - Two-tailed: Tests for any difference.
+
+23. **Level of Significance, P-value, Confidence Interval:**
+   - **Level of Significance (α):** Probability of rejecting the null hypothesis when it's true.
+   - **P-value:** Probability of obtaining the observed results under the null hypothesis.
+   - **Confidence Interval:** Range within which the true population parameter is likely to fall.
+
+24. **ANOVA and its Types:**
+   - Analysis of Variance: Tests if there's a significant difference among multiple groups.
+   - Types: One-way ANOVA, Two-way ANOVA, MANOVA.
+
+25. **Post hoc Tukey's Test:**
+   - Determines differences between multiple group means after conducting ANOVA.
+
+26. **Chi-square Test and its Types:**
+   - Statistical test to determine if there's a significant association between categorical variables.
+   - Types: Pearson's chi-square test, Chi-square test for independence.
+
+27. **Shapiro-Wilk Test:**
+   - Tests whether a sample comes from a normally distributed population.
+[01/10/23, 09:57:37] Subodh Nadkar😁 (Imarticus Class): ‎Missed voice call
+[22/10/23, 12:43:16] Rakesh Rao: new_df = pd.DataFrame()
+new_df = X_train.copy()
+
+
+new_df["sales"] = Y_train.copy()
+new_df.shape
+[22/10/23, 13:15:08] Rakesh Rao: Assumtion 5: There should be no auto-correlation in the data
+
+Auto-correlation means relationship between same variable that is Y releated with Y
+It is found in Time Series Data
+
+Y-current related with Y-Previous
+eg. Stock price today depends on stock price yesterday.
+
+
+
+Durbin -watson:
+    
+    Range : 0 to 4
+    
+    If the value is close to 2 --> no auto correlation
+    If the value is close to 0 --> +ve auto correlation
+    If the value is close to 4 --> -ve auto correlation
+[22/10/23, 13:52:43] Rakesh Rao: ## The Error points should follow the red diagonal line
+#  The normal QQ plot is use to compare a given set of values with standard normal distributed data (Theoretical Quantiles)
+[04/11/23, 11:22:56] Rakesh Rao: Me late yenar ahai
+[04/11/23, 11:23:22] Rakesh Rao: Nantar Mala dakav Kay Kay kela te
+[04/11/23, 11:59:15] Subodh Nadkar😁 (Imarticus Class): Ok
+[04/11/23, 14:57:33] Subodh Nadkar😁 (Imarticus Class): from sklearn.model_selection import train_test_split
+
+#Split the data into test and train 
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.3,random_state=10)
+[04/11/23, 14:57:42] Subodh Nadkar😁 (Imarticus Class): print(X_train.shape)
+print(Y_train.shape)
+print(X_test.shape)
+print(Y_test.shape)
+print("percent of train data =",X_train.shape[0]/X.shape[0]*100)
+[04/11/23, 14:57:53] Subodh Nadkar😁 (Imarticus Class): from sklearn.linear_model import LogisticRegression
+#create a model object
+classifier = LogisticRegression()
+#train the model object
+classifier.fit(X_train,Y_train)
+
+#print intercept and coefficients
+print(classifier.intercept_)  # this is "Beta 0"
+print(classifier.coef_) # this gives Beta value
+[04/11/23, 14:58:05] Subodh Nadkar😁 (Imarticus Class): Y_pred = classifier.predict(X_test)
+print(Y_pred)
+[04/11/23, 14:58:43] Subodh Nadkar😁 (Imarticus Class): print(list(zip(Y_test,Y_pred)))
+print()
+print(list(zip(adult_df_rev.columns[:-1],classifier.coef_.ravel()))) # to flaten the 2d array
+print()
+print(classifier.intercept_)
+print()
+classifier.coef_
+[04/11/23, 14:58:56] Subodh Nadkar😁 (Imarticus Class): Confusion Matrix
+[04/11/23, 14:59:07] Subodh Nadkar😁 (Imarticus Class): from sklearn.metrics import confusion_matrix, accuracy_score, classification_report
+ 
+cfm=confusion_matrix(Y_test,Y_pred)
+print(cfm)
+ 
+print("Classification report: ")
+ 
+print(classification_report(Y_test,Y_pred))
+ 
+acc=accuracy_score(Y_test, Y_pred)
+print("Accuracy of the model: ",acc)
+[04/11/23, 15:00:00] Subodh Nadkar😁 (Imarticus Class): Adjusting the threshold
+[04/11/23, 15:00:24] Subodh Nadkar😁 (Imarticus Class): #store the predicted probailities
+y_pred_prob = classifier.predict_proba(X_test)
+print(y_pred_prob)
+[25/11/23, 15:11:12] Subodh Nadkar😁 (Imarticus Class): SFS is a forward feature selection technique where it iteratively starts with one variable and keeps on adding variables one by one to the model. It perform the cross validation(CV) process to identify which combination of variables returns the highest CV accuracy. We can select the best combination and procede to build the model using the manual approach.
+[16/12/23, 14:37:29] Rakesh Rao: import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+#importing the data
+df = pd.read_excel(r"Sample - Superstore.xls", header=0)
+#Printing head
+df.head()
+[16/12/23, 14:39:01] Rakesh Rao: df.shape
+
+df["Category"].value_counts()
+
+furniture = df[df["Category"] == 'Furniture']
+furniture.shape
+
+furniture.dtypes
+[17/12/23, 13:56:55] Rakesh Rao: from statsmodels.tsa.api import ExponentialSmoothing
+
+#seasonalperiods=gamma
+fit1 = ExponentialSmoothing(y ,seasonal_periods=12,
+                            trend='add',
+                            seasonal='add').fit()
+
+Y_predictions = fit1.forecast(steps=12)
+ 
+y.plot(figsize=(10,6), title= 'Average Sales', fontsize=14)
+Y_predictions.plot(figsize=(10,6), title= 'Average Sales', fontsize=14)
+plt.show()
+[20/01/24, 13:02:02] Subodh Nadkar😁 (Imarticus Class): 24. Deployment : aws, gcp, azure
+25. Documentation
+26. Create Retraining Pipeline : Incremental Learning
+[27/01/24, 14:13:51] Rakesh Rao: hi'
+[27/01/24, 14:13:57] Subodh Nadkar😁 (Imarticus Class): http://ec2-16-171-32-244.eu-north-1.compute.amazonaws.com:8080/
+[27/01/24, 15:06:58] Subodh Nadkar😁 (Imarticus Class): 2 mac spicy chicken burger
+1 coke float
+1 mac flurry medium
+[04/02/24, 12:43:18] Rakesh Rao: https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=5&networkShape=2,2,2,2&seed=0.10962&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=true&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+[04/02/24, 13:44:11] Subodh Nadkar😁 (Imarticus Class): import numpy as np #linera algebra
+import pandas as pd #data processing, CSV file I/O
+
+import tensorflow
+from tensorflow.keras import Sequential
+from tensorflow.keras import callbacks
+from tensorflow.keras.layers import Dense
+
+import matplotlib.pyplot as plt
+from sklearn.metrics import  mean_absolute_error as mae
+import seaborn as sns
+%matplotlib inline
+
+#for interactice shells
+from IPython.display import display
+
+#removing warnings
+import sys
+import warnings
+if not sys.warnoptions:
+    warnings.simplefilter("ignore")
+[08/02/24, 15:34:15] Rakesh Rao: Bhai tuja number share kela ahai call yeil tar bagh jara
+[08/02/24, 15:36:59] Rakesh Rao: Data analyst satti
+[08/02/24, 15:37:21] Rakesh Rao: 4-8 years cha experience pahije boltat
+[09/02/24, 08:41:10] Subodh Nadkar😁 (Imarticus Class): wow
+[09/02/24, 08:41:19] Subodh Nadkar😁 (Imarticus Class): thanks bhai
+[09/02/24, 08:41:33] Subodh Nadkar😁 (Imarticus Class): ❤️
+[09/02/24, 08:42:14] Rakesh Rao: Lavkar bagitlas
+[09/02/24, 08:43:00] Subodh Nadkar😁 (Imarticus Class): 🥲🥲🥲🥲
+[09/02/24, 08:48:09] Rakesh Rao: Koi call ayya tha kya ?
+[09/02/24, 10:18:29] Subodh Nadkar😁 (Imarticus Class): ‎Voice call, ‎2 min
+‎[18/02/24, 12:58:32] Rakesh Rao: ML Exam Solution - Part 1.ipynb ‎document omitted
+[20/02/24, 23:51:47] Subodh Nadkar😁 (Imarticus Class): ‎Voice call, ‎14 sec
+[20/02/24, 23:51:14] Subodh Nadkar😁 (Imarticus Class): https://meet.google.com/hnr-hjnm-pcm
+[20/02/24, 23:51:23] Subodh Nadkar😁 (Imarticus Class): join kar
+[21/02/24, 00:17:15] Subodh Nadkar😁 (Imarticus Class): # PRINTING THE FEATURE IMPORTANCES
+
+print((list(zip(df.columns[0:-1],
+               model_DecisionTree.feature_importances_))))
+[21/02/24, 00:17:41] Subodh Nadkar😁 (Imarticus Class): sample=pd.DataFrame()
+ 
+sample["Column"]=df.columns[0:-1]
+sample["Imp value"]=model_DecisionTree.feature_importances_
+ 
+sample.sort_values("Imp value",ascending=False)
+[24/02/24, 13:38:54] Subodh Nadkar😁 (Imarticus Class): ‎Voice call, ‎53 sec
+[24/02/24, 13:43:17] Subodh Nadkar😁 (Imarticus Class): https://meet.google.com/maq-svmr-saa
+[24/02/24, 16:12:44] Subodh Nadkar😁 (Imarticus Class): ‎Missed voice call, ‎Tap to call back
+[24/02/24, 16:12:28] Subodh Nadkar😁 (Imarticus Class): hello bhai.
+[24/02/24, 16:12:33] Subodh Nadkar😁 (Imarticus Class): call?
+[24/02/24, 17:23:37] Subodh Nadkar😁 (Imarticus Class): ‎Voice call, ‎13 sec
+[24/02/24, 17:23:07] Subodh Nadkar😁 (Imarticus Class): Hello
+[24/02/24, 17:34:28] Rakesh Rao: Subho
+[24/02/24, 17:34:39] Rakesh Rao: Battery dead zali
+[24/02/24, 17:34:41] Rakesh Rao: Wait
+‎[24/02/24, 17:41:18] Subodh Nadkar😁 (Imarticus Class): ML_DL_MOCK.zip ‎document omitted
+‎[24/02/24, 18:39:42] Subodh Nadkar😁 (Imarticus Class): ML_DL_notebook.zip ‎document omitted
+[03/03/24, 12:07:41] Subodh Nadkar😁 (Imarticus Class): ‎Voice call, ‎3 min
+[29/03/24, 21:14:54] Subodh Nadkar😁 (Imarticus Class): https://meet.google.com/jsf-xsmj-dqc
+[29/03/24, 21:15:07] Subodh Nadkar😁 (Imarticus Class): hello bhai connect ?
+[29/03/24, 21:15:16] Rakesh Rao: Haa bhai
+[29/03/24, 21:15:21] Rakesh Rao: 15 mins
+[29/03/24, 21:16:00] Subodh Nadkar😁 (Imarticus Class): lvkar ye
+[29/03/24, 21:55:01] Rakesh Rao: Hii
+[29/03/24, 21:55:17] Subodh Nadkar😁 (Imarticus Class): jhala ka sir tumcha sagla
+[29/03/24, 21:55:35] Subodh Nadkar😁 (Imarticus Class): join kar
+[29/03/24, 21:56:02] Rakesh Rao: Haa
+[29/03/24, 21:56:03] Rakesh Rao: Okk
+[29/03/24, 21:57:20] Subodh Nadkar😁 (Imarticus Class): aaj
+[29/03/24, 21:57:33] Rakesh Rao: Haa
+‎[29/03/24, 21:57:41] Rakesh Rao: ‎image omitted
+‎[29/03/24, 23:12:46] Subodh Nadkar😁 (Imarticus Class): ‎image omitted
+[30/03/24, 09:58:54] Subodh Nadkar😁 (Imarticus Class): bhai exam cha time kay aahe?
+[30/03/24, 11:17:58] Subodh Nadkar😁 (Imarticus Class): ‎Missed voice call, ‎Tap to call back
+[30/03/24, 11:33:40] Rakesh Rao: ‎Voice call, ‎14 sec
+‎[30/03/24, 12:02:50] Rakesh Rao: Uber request data.xlsx ‎document omitted
+[30/03/24, 14:45:19] Subodh Nadkar😁 (Imarticus Class): ‎Missed voice call, ‎Tap to call back
+[30/03/24, 14:45:14] Subodh Nadkar😁 (Imarticus Class): call utha
+[30/03/24, 14:45:48] Rakesh Rao: 5 min
+[30/03/24, 14:45:51] Subodh Nadkar😁 (Imarticus Class): 🥲🥲🥲🥲🥲
+[30/03/24, 14:45:58] Subodh Nadkar😁 (Imarticus Class): ok sir
+[30/03/24, 14:46:17] Rakesh Rao: ‎Voice call, ‎30 sec
+[30/03/24, 15:59:40] Subodh Nadkar😁 (Imarticus Class): link join kar
+[30/03/24, 15:59:48] Subodh Nadkar😁 (Imarticus Class): last question is pending
+[30/03/24, 16:00:03] Rakesh Rao: Haa wait
+[30/03/24, 16:28:48] Subodh Nadkar😁 (Imarticus Class): hellloooooo sir one last sheet sir wont take much of your time.
+[30/03/24, 16:29:29] Rakesh Rao: Haa bro ek min thamna
+[31/03/24, 09:03:54] Subodh Nadkar😁 (Imarticus Class): hello call?
+[03/04/24, 19:01:13] Subodh Nadkar😁 (Imarticus Class): Hello Bhai
+[03/04/24, 19:01:21] Subodh Nadkar😁 (Imarticus Class): Remock detoy.
+[03/04/24, 19:06:15] Rakesh Rao: Yesss
+[03/04/24, 19:07:05] Subodh Nadkar😁 (Imarticus Class): mai nhi dera
+[03/04/24, 19:14:05] Subodh Nadkar😁 (Imarticus Class): 🥺
+[03/04/24, 19:14:28] Subodh Nadkar😁 (Imarticus Class): karo tumlog abhi accha accha score karo mai piche rahunga 🥲🥲
+[03/04/24, 19:56:46] Rakesh Rao: Nazar math laga Saale ‎<This message was edited>
+[03/04/24, 20:16:00] Rakesh Rao: Bhai tu template submit kela kay
+[03/04/24, 23:44:19] Subodh Nadkar😁 (Imarticus Class): nope
+[20/04/24, 12:59:13] Subodh Nadkar😁 (Imarticus Class): import pandas as pd
+import datetime as dt
+import numpy as np
+import re
+
+from sklearn.preprocessing import StandardScaler
+from sklearn.manifold import TSNE
+from sklearn.cluster import KMeans
+
+import collections
+from collections import Counter
+from collections import defaultdict
+import itertools
+
+from scipy import stats
+from sklearn.metrics import silhouette_score
+
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import seaborn as sns
+plt.style.use('seaborn')
+%config InlineBackend.figure_format = 'retina'
+%matplotlib inline
+[20/04/24, 12:59:30] Subodh Nadkar😁 (Imarticus Class): df['Date'] = pd.to_datetime(df['Date'], infer_datetime_format=True)
+plt.figure(figsize=(10,7))
+sns.countplot(df['Date'].apply(lambda x: x.year))
+plt.title('When were the purchase performed')
+plt.xlabel('year')
+plt.show()
+[21/04/24, 13:19:01] Rakesh Rao: df.describe(percentiles=[0.01,0.02,0.03,0.04,0.05,.25,.50,.90,.95,.96,.97,.98,.99]).style.background_gradient()
+[21/04/24, 13:21:44] Rakesh Rao: plt.figure(figsize=(12,8))
+sns.violinplot(data=df, x='Item_Fat_Content',y='Item_Outlet_Sales',palette='rainbow')
+plt.xlabel('Fat content in items')
+plt.ylabel('Sales in Outlets of those Items')
+plt.xticks(rotation=60)
+plt.title("To visualize to the status in the sales in order wise")
+plt.legend()
+plt.show()
+[21/04/24, 13:24:43] Rakesh Rao: import warnings
+warnings.filterwarnings(action='ignore')
+[21/04/24, 13:32:46] Rakesh Rao: def volin_plot(data,x,y,title=None):
+    '''
+    Objective : This function is used to create a volin plot
+    -------------------
+    
+    Parameters
+        df: input dataframe
+        x : values on x axis
+        y : values on  y axis
+        title : title of the plot
+        
+    --------------------
+    
+    Returns: Display the violin Plot
+    
+    '''
+
+    plt.figure(figsize=(12,8))
+    sns.violinplot(data=data, x=x,y=y,palette='rainbow')
+    plt.xlabel(x)
+    plt.ylabel(y)
+    plt.xticks(rotation=60)
+    if title!=None:
+        plt.title(title)
+    plt.legend()
+    plt.show()
+[22/04/24, 13:17:13] Rakesh Rao: Hii
+[22/04/24, 13:17:59] Rakesh Rao: Te upgrade walecha contact ahai ka ?
+[22/04/24, 16:35:45] Subodh Nadkar😁 (Imarticus Class): yes
+[22/04/24, 16:36:03] Subodh Nadkar😁 (Imarticus Class): tu google war tak upgrad abroad
+[22/04/24, 16:36:18] Subodh Nadkar😁 (Imarticus Class): tula te loack contact kartil
+[22/04/24, 17:41:28] Rakesh Rao: Haa done
+[25/04/24, 08:17:46] Rakesh Rao: Subhod
+[25/04/24, 11:38:43] Subodh Nadkar😁 (Imarticus Class): haa bhai
+‎[25/04/24, 11:44:25] Subodh Nadkar😁 (Imarticus Class): ‎Contact card omitted
+[27/04/24, 23:22:09] Rakesh Rao: subodh
+‎[28/04/24, 23:39:47] Rakesh Rao: Hackathon Stage-1.ipynb ‎document omitted
+[28/04/24, 23:49:07] Subodh Nadkar😁 (Imarticus Class): https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/?q=Masters%20in%20Data%20science&degree%5B%5D=2&lang%5B%5D=2&fos=&cert=&admReq=&langExamPC=&scholarshipLC=&langExamLC=&scholarshipSC=&langExamSC=&langDeAvailable=&langEnAvailable=&lvlEn%5B%5D=&modStd%5B%5D=7&cit%5B%5D=&tyi%5B%5D=1&tyi%5B%5D=2&ins%5B%5D=&fee=&bgn%5B%5D=&dat%5B%5D=&prep_subj%5B%5D=&prep_degree%5B%5D=&sort=4&dur=&subjects%5B%5D=&limit=10&offset=60&display=list
+[28/04/24, 23:53:33] Rakesh Rao: massachusetts
+[30/04/24, 21:17:23] Rakesh Rao: RakeshRao
+rao#123
+[30/04/24, 21:18:21] Subodh Nadkar😁 (Imarticus Class): ❤️❤️❤️❤️❤️
+[30/04/24, 21:18:26] Subodh Nadkar😁 (Imarticus Class): Thanks Bhai
+[30/04/24, 21:18:30] Subodh Nadkar😁 (Imarticus Class): 🥲🥲
+[30/04/24, 21:18:35] Subodh Nadkar😁 (Imarticus Class): Life saver
+[30/04/24, 21:18:39] Subodh Nadkar😁 (Imarticus Class): 🥺🥺
+[30/04/24, 21:18:47] Subodh Nadkar😁 (Imarticus Class): I owe you one bro
+[30/04/24, 21:18:49] Rakesh Rao: Mera bhi end stage kar Dena
+[30/04/24, 21:18:59] Subodh Nadkar😁 (Imarticus Class): ok bhai
+[30/04/24, 22:02:54] Subodh Nadkar😁 (Imarticus Class): ‎Voice call, ‎2 min
+[30/04/24, 22:08:54] Subodh Nadkar😁 (Imarticus Class): https://meet.google.com/vur-jtjj-szu
+[30/04/24, 22:08:59] Subodh Nadkar😁 (Imarticus Class): bro join ho na.
+[03/05/24, 09:46:18] Rakesh Rao: Bro
+[03/05/24, 09:46:45] Rakesh Rao: Tuja ielts cha result alla ka?
+‎[03/05/24, 10:54:39] Subodh Nadkar😁 (Imarticus Class): index.pdf • ‎1 page ‎document omitted
+[03/05/24, 10:55:38] Rakesh Rao: C1
+[03/05/24, 10:55:52] Subodh Nadkar😁 (Imarticus Class): yess😍😍
+[03/05/24, 10:56:00] Rakesh Rao: Nice yaar
+[03/05/24, 10:55:59] Subodh Nadkar😁 (Imarticus Class): mekko bhi yakin nhi hua tha
+[03/05/24, 10:56:11] Subodh Nadkar😁 (Imarticus Class): thanks bro
+[03/05/24, 10:56:13] Rakesh Rao: Easy tha kya ?
+[03/05/24, 10:56:30] Rakesh Rao: Kya kya prepare kiya merko bhi bata
+[03/05/24, 10:56:32] Subodh Nadkar😁 (Imarticus Class): haa kind off
+[03/05/24, 10:56:46] Subodh Nadkar😁 (Imarticus Class): mai kal tekko book deta hu
+[03/05/24, 10:56:56] Subodh Nadkar😁 (Imarticus Class): and youtube channel share karta hu
+[03/05/24, 10:58:02] Rakesh Rao: Haaa please
+[03/05/24, 10:58:18] Rakesh Rao: Kiti divas preparation kele ?
+[03/05/24, 10:58:29] Subodh Nadkar😁 (Imarticus Class): 3 weeks proper
+[03/05/24, 10:58:37] Subodh Nadkar😁 (Imarticus Class): is more than enough
+[03/05/24, 10:58:38] Rakesh Rao: Okk
+[03/05/24, 10:58:54] Subodh Nadkar😁 (Imarticus Class): mai tekko mock ke links and all bhi deta hu
+[03/05/24, 10:58:56] Subodh Nadkar😁 (Imarticus Class): kal
+[03/05/24, 10:59:05] Rakesh Rao: Mala ekane duolingo suggest kela
+[03/05/24, 10:59:13] Rakesh Rao: Haa please
+[03/05/24, 10:59:24] Subodh Nadkar😁 (Imarticus Class): ??
+[03/05/24, 10:59:27] Subodh Nadkar😁 (Imarticus Class): for prep
+[03/05/24, 10:59:29] Subodh Nadkar😁 (Imarticus Class): ??
+[03/05/24, 10:59:51] Rakesh Rao: Duolingo pan ghetat
+[03/05/24, 11:00:35] Subodh Nadkar😁 (Imarticus Class): not sure bro tu jya University madhe try kartoy chek if they accept that mala evdi idea nhi aahe
+[03/05/24, 11:01:19] Rakesh Rao: Yachi Kay validity naste na ?
+[03/05/24, 11:01:41] Subodh Nadkar😁 (Imarticus Class): 2 years
+[03/05/24, 11:04:16] Rakesh Rao: Okk
+[04/05/24, 11:00:59] Rakesh Rao: Book anayla visru nakos
+[04/05/24, 13:34:54] Subodh Nadkar😁 (Imarticus Class): https://ieltsonlinetests.com/collection/ielts-mock-test-2023-december
+[04/05/24, 19:32:42] Rakesh Rao: brooo
+[04/05/24, 23:21:44] Subodh Nadkar😁 (Imarticus Class): haa bro bol
+[04/05/24, 23:24:09] Rakesh Rao: Links share kar
+[04/05/24, 23:24:20] Subodh Nadkar😁 (Imarticus Class): ??
+[04/05/24, 23:24:24] Subodh Nadkar😁 (Imarticus Class): kutli bhai
+[04/05/24, 23:24:50] Rakesh Rao: Ielts chi
+[04/05/24, 23:24:55] Subodh Nadkar😁 (Imarticus Class): https://youtu.be/jYk0pvSiNhQ?si=7EvmEuMqL4wOf73j
+[04/05/24, 23:25:00] Rakesh Rao: ANI book aan
+[04/05/24, 23:25:00] Subodh Nadkar😁 (Imarticus Class): exam?
+[04/05/24, 23:25:05] Subodh Nadkar😁 (Imarticus Class): yes sir
+[04/05/24, 23:25:17] Rakesh Rao: Okk
+[04/05/24, 23:25:31] Subodh Nadkar😁 (Imarticus Class): https://youtu.be/JWaf1FZ9NF0?si=hoa0_hE79FMeSIqW
+[04/05/24, 23:26:11] Subodh Nadkar😁 (Imarticus Class): https://youtu.be/ZybveGJG6e8?si=DFYOzFEv5vl8Baf8
+[04/05/24, 23:26:24] Subodh Nadkar😁 (Imarticus Class): bro he channel subscribe karun thev
+[04/05/24, 23:26:52] Subodh Nadkar😁 (Imarticus Class): I preferred them might be of some help to u
+[04/05/24, 23:27:21] Subodh Nadkar😁 (Imarticus Class): https://youtu.be/HWUQwEu76yc?si=7MVt4yMQabhIT7y8
+[04/05/24, 23:33:21] Rakesh Rao: Okk
+[05/05/24, 14:06:02] Rakesh Rao: def predict_image(image):
+    #pre-proces the image for classification
+    image = cv2.resize(image,(28,28))
+    image = image.astype("float")/255.0
+    image = img_to_array(image)
+    image = np.expand_dims(image,axis=0)
+
+    preds = model.predict(image)[0]
+    result = dict()
+    result["Buildings"] = round(float(list(preds)[0]),3)
+    result["Forest"] = round(float(list(preds)[1]),3)
+    result["Sea"] = round(float(list(preds)[2]),3)
+
+    print(result)
+    return result
+[05/05/24, 14:12:37] Rakesh Rao: im = gr.Image()
+label = gr.Label(num_top_classes=3)
+gr.Interface(fn=predict_image,inputs=im,outputs=label,title="CNN Demo").launch(share=True,debug=True)
+[08/05/24, 11:00:53] Subodh Nadkar😁 (Imarticus Class): https://meet.google.com/ugc-thsr-qzu
+[08/05/24, 11:01:45] Subodh Nadkar😁 (Imarticus Class): join kara na sir
+[08/05/24, 11:01:59] Rakesh Rao: 5 min de
+[08/05/24, 11:02:02] Subodh Nadkar😁 (Imarticus Class): ok
+‎[08/05/24, 11:11:14] Rakesh Rao: ‎image omitted
+‎[08/05/24, 11:11:14] Rakesh Rao: ‎image omitted
+‎[08/05/24, 11:11:14] Rakesh Rao: ‎image omitted
+‎[08/05/24, 11:11:14] Rakesh Rao: ‎image omitted
+‎[08/05/24, 11:11:14] Rakesh Rao: ‎image omitted
+[11/05/24, 12:59:12] Rakesh Rao: canvas = np.zeros((1000,1000,3),dtype='uint8')
+
+for i in range(90):
+    
+    r = np.random.randint(2,30)
+    c = np.random.randint(0,255,size =(3,)).tolist()
+    pt = np.random.randint(0,1000,size=(2,))
+    cv2.circle(canvas,pt,r,c,-1)
+    
+    pt1 = np.random.randint(0,1000,size= (2,))
+    pt2 = np.random.randint(0,1000,size=(2,))
+    c = np.random.randint(0,255,size=(3,)).tolist()
+    cv2.rectangle(canvas,
+                 pt1=pt1,
+                 pt2=pt2,
+                 color=c,
+                 thickness=2)
+    
+    
+cv2.imshow("test",canvas)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+‎[11/05/24, 13:11:57] Rakesh Rao: Drawing on Images.ipynb ‎document omitted
+‎[11/05/24, 13:11:57] Rakesh Rao: GrayScaling.ipynb ‎document omitted
+‎[11/05/24, 13:11:57] Rakesh Rao: Reading,Writing and Displaying images.ipynb ‎document omitted
+[18/05/24, 12:18:59] Subodh Nadkar😁 (Imarticus Class): ‎Voice call, ‎33 sec
+[18/05/24, 19:35:18] Subodh Nadkar😁 (Imarticus Class): ‎Voice call, ‎2 min
+[22/05/24, 12:08:29] Rakesh Rao: Subhod tu submit kelas kay paper ?
+[24/05/24, 19:10:00] Subodh Nadkar😁 (Imarticus Class): nhi bro tu kela aahes ka
+[24/05/24, 20:03:15] Rakesh Rao: Me pan nahi
+[25/05/24, 09:09:42] Subodh Nadkar😁 (Imarticus Class): aaj udya madhe karu mitra
+[25/05/24, 12:09:14] Rakesh Rao: Ok
+[25/05/24, 15:49:56] Rakesh Rao: Rakesh0187rao@gmail.c
+[29/05/24, 11:16:31] Rakesh Rao: Bro submit kelas ka tu ?
+[09/06/24, 12:40:17] Subodh Nadkar😁 (Imarticus Class): from sklearn.feature_extraction.text import CountVectorizer
+
+import numpy as np
+import re
+
+#list of text documents
+text = ['The quick brown fox jumped over the lazy dog']
+
+#create the transform
+vectorizer = CountVectorizer()
+
+#tokenize and build vocab
+vectorizer.fit(text)
+
+#summarize
+print(vectorizer.vocabulary_)
+
+#encode document
+vector = vectorizer.transform(text)
+# summarize encoded vector
+print(vector.shape)
+print(type(vector))
+print(vector.toarray())
+[09/06/24, 13:15:01] Subodh Nadkar😁 (Imarticus Class): corpus = []
+ps = PorterStemmer()
+all_stopwords = stopwords.words('english')
+all_stopwords.remove('not')
+
+for i in dataset.iterrows():
+    text = i[1]["Review"]
+    print(["INFO  Raw text :  ", text])
+    
+    review = re.sub('[^a-zA-Z]', ' ', text)
+    print(["INFO  Clean text :  ", review])
+    
+    review = review.lower()
+    print(["INFO  Lower text :  ", review])
+
+    review = review.split()
+    print(["INFO  Token text :  ", review])
+    
+    review2 = []
+    for word in review:
+        print("word : ", word)
+        if not word in set(all_stopwords):
+            b = ps.stem(word)
+            print("Stem : ", b)
+            review2.append(b)
+            
+    print("[INFO] Base Text : ", review2)
+    
+    review2 = ' '.join(review2)
+    print("[INFO] Final Text: ",review2)
+    corpus.append(review2)
+    print("___"*25)
+[09/06/24, 13:25:06] Subodh Nadkar😁 (Imarticus Class): from sklearn.naive_bayes import GaussianNB
+classifier = GaussianNB()
+classifier.fit(X_train, y_train)
+‎[09/06/24, 15:34:56] Subodh Nadkar😁 (Imarticus Class): 645f867bb4d37234e09d0a8f_1716138474917_Kunal Sangale Ml Advance.zip ‎document omitted
+‎[09/06/24, 21:02:17] Rakesh Rao: Adv_ML_Exam.zip ‎document omitted
+[10/06/24, 00:18:03] Rakesh Rao: Bol
+‎[10/06/24, 00:26:44] Subodh Nadkar😁 (Imarticus Class): ‎image omitted
+‎[10/06/24, 00:30:27] Rakesh Rao: ‎image omitted
+‎[15/06/24, 15:38:46] Rakesh Rao: Question_1.ipynb ‎document omitted
+[29/06/24, 08:35:52] Rakesh Rao: Bro
+[29/06/24, 08:35:59] Rakesh Rao: PGA 26 chalu ahai
+‎[29/06/24, 08:36:08] Rakesh Rao: ‎image omitted
+[29/06/24, 08:36:09] Subodh Nadkar😁 (Imarticus Class): kay aahe aaj?
+[29/06/24, 08:36:18] Rakesh Rao: Ensemble learning
+[29/06/24, 08:36:31] Subodh Nadkar😁 (Imarticus Class): soft skill nhi chalu?
+[29/06/24, 08:36:34] Subodh Nadkar😁 (Imarticus Class): bc
+[29/06/24, 08:36:46] Rakesh Rao: Nahi
+[29/06/24, 08:36:45] Subodh Nadkar😁 (Imarticus Class): devdatta
+[29/06/24, 08:36:47] Subodh Nadkar😁 (Imarticus Class): ?
+[29/06/24, 08:36:49] Rakesh Rao: Yes
+[29/06/24, 08:36:57] Subodh Nadkar😁 (Imarticus Class): okok
+[29/06/24, 08:39:08] Rakesh Rao: Yeto ahais ka ?
+[29/06/24, 08:39:18] Subodh Nadkar😁 (Imarticus Class): bhai me ghari aahe
+[29/06/24, 08:39:24] Rakesh Rao: Just chalu Zala ahai ‎<This message was edited>
+[29/06/24, 08:39:49] Subodh Nadkar😁 (Imarticus Class): ensemble is a part of advance ML na?
+[29/06/24, 08:40:19] Rakesh Rao: Haa mag
+[29/06/24, 08:40:43] Subodh Nadkar😁 (Imarticus Class): aaj ratri we will connect bhai
+[29/06/24, 08:40:54] Subodh Nadkar😁 (Imarticus Class): thoda discussion karuya on this topic
+[29/06/24, 08:41:06] Subodh Nadkar😁 (Imarticus Class): ok?
+[29/06/24, 08:41:18] Subodh Nadkar😁 (Imarticus Class): mitra kahi tari bol
+[29/06/24, 08:41:46] Rakesh Rao: U can attend the pga 26 batch from this Saturday onwards
+[29/06/24, 08:41:46] Rakesh Rao: 8am to 12pm
+[29/06/24, 08:41:57] Rakesh Rao: Okk chalel
+[29/06/24, 08:42:24] Subodh Nadkar😁 (Imarticus Class): he wala koni patavla
+[29/06/24, 08:42:26] Subodh Nadkar😁 (Imarticus Class): ??
+[29/06/24, 08:43:25] Rakesh Rao: Nikita ma’am ni
+[29/06/24, 08:43:30] Rakesh Rao: Wednesday la
+[04/07/24, 13:37:34] Rakesh Rao: Friends,
+Anyone having prior or Current experience  in large Data Handling in Excel (Data Expert) with SQL coding practical knowledge.
+
+Package range max 8-9lpa
+
+I am looking  for a candidate  having knowledge for a post of Business Analyst in one leading bank at Pune location 
+
+If anyone is interested then kindly forward resume and the same will be sent to concerned people/ team.
+
+Thanks
+[04/07/24, 13:38:40] Rakesh Rao: +91 98196 52173
+[04/07/24, 13:38:49] Rakesh Rao: Contact him for this
+[04/07/24, 13:39:28] Subodh Nadkar😁 (Imarticus Class): 👍
+[04/07/24, 13:42:00] Rakesh Rao: Where is he currently located and his current CTC
+
+Also it's for Pune location.. hope he is fine..
+[04/07/24, 13:42:07] Rakesh Rao: 😅
+[04/07/24, 13:42:23] Subodh Nadkar😁 (Imarticus Class): 🥲
+[04/07/24, 13:42:29] Subodh Nadkar😁 (Imarticus Class): nah bro
+[04/07/24, 13:44:20] Rakesh Rao: 🫥
+[04/07/24, 13:48:43] Subodh Nadkar😁 (Imarticus Class): bhai German cha pan aahe re fix I just want a temporary re so tyasathi relocate nhi honar re
+[04/07/24, 13:52:24] Rakesh Rao: Are bhai me Khute bolto ahai jaa
+[04/07/24, 13:52:46] Subodh Nadkar😁 (Imarticus Class): tu try kar na bro fir badi party
+[04/07/24, 13:56:10] Rakesh Rao: Mala nako
+[06/07/24, 08:48:17] Rakesh Rao: Ale ahait ka sir ?
+[06/07/24, 09:03:00] Subodh Nadkar😁 (Imarticus Class): ha
+[06/07/24, 09:03:53] Rakesh Rao: Udya yeto me
+[06/07/24, 09:04:01] Subodh Nadkar😁 (Imarticus Class): 😅
+[06/07/24, 09:04:03] Subodh Nadkar😁 (Imarticus Class): ok
+[07/07/24, 08:26:52] Rakesh Rao: Pochlas ka ??
+[13/07/24, 09:32:53] Subodh Nadkar😁 (Imarticus Class): The maximum distance between elements of each cluster (also called complete-linkage clustering)
+
+ The minimum distance between elements of each cluster (also called single-linkage clustering)
+
+The mean distance between elements of each cluster (also called average linkage clustering)
+
+The sum of all intra-cluster variance
+[14/07/24, 08:51:33] Rakesh Rao: Khute ahais
+[14/07/24, 09:10:24] Subodh Nadkar😁 (Imarticus Class): classes.
+[21/07/24, 08:46:46] Rakesh Rao: Subhod
+[21/07/24, 08:46:56] Rakesh Rao: Meeting link share karna
+[21/07/24, 08:47:02] Subodh Nadkar😁 (Imarticus Class): ok
+[21/07/24, 08:47:19] Subodh Nadkar😁 (Imarticus Class): meet.google.com/bqb-qarx-gdc
+[21/07/24, 08:49:48] Rakesh Rao: Admit kar
+[21/07/24, 08:50:20] Subodh Nadkar😁 (Imarticus Class): parat patav req
+[21/07/24, 08:50:57] Subodh Nadkar😁 (Imarticus Class): ??
+[21/07/24, 08:51:10] Subodh Nadkar😁 (Imarticus Class): cant see you in lobby
+[21/07/24, 08:51:44] Rakesh Rao: Kay Chala ahai ??
+[21/07/24, 08:51:55] Subodh Nadkar😁 (Imarticus Class): soft skill!!!!!!!!
+[21/07/24, 08:52:08] Rakesh Rao: 🤦🏻
+[21/07/24, 08:52:15] Subodh Nadkar😁 (Imarticus Class): problem solving
+[21/07/24, 08:52:18] Subodh Nadkar😁 (Imarticus Class): hahahahahahha
+[21/07/24, 08:52:37] Subodh Nadkar😁 (Imarticus Class): muddam sangitla nhi ata tu bhi bhugat mere sath.
+[21/07/24, 08:52:52] Rakesh Rao: 😂
+[21/07/24, 08:53:13] Rakesh Rao: Chalu nai ahai ka ?
+[21/07/24, 08:53:37] Rakesh Rao: Kuch sunai nai de raha hai
+[21/07/24, 08:53:39] Subodh Nadkar😁 (Imarticus Class): aree 5 min dilet to ans the question on sreen.
+[21/07/24, 08:54:28] Rakesh Rao: Ok
+[21/07/24, 09:06:27] Subodh Nadkar😁 (Imarticus Class): aye bhai ye
+[03/08/24, 10:11:47] Rakesh Rao: https://drive.google.com/drive/folders/1j6YWcEZcNgtpkYXvmAYIqCIFylGxNeIi
+[03/08/24, 10:11:50] Rakesh Rao: pGA26
+[03/08/24, 10:12:19] Rakesh Rao: Bro yancha core mocks ahai next week
+[03/08/24, 10:12:27] Rakesh Rao: sorry udya
+[03/08/24, 10:18:12] Subodh Nadkar😁 (Imarticus Class): hmm me next time deil bhai 😞
+[03/08/24, 10:18:30] Rakesh Rao: Abhi aur kitna next time ??
+[03/08/24, 10:18:50] Subodh Nadkar😁 (Imarticus Class): bhai kankavli la aahe aaj nighel
+[03/08/24, 10:19:04] Subodh Nadkar😁 (Imarticus Class): udya dupari pochel
+[03/08/24, 10:19:18] Subodh Nadkar😁 (Imarticus Class): haa purna week hite hoto re
+[03/08/24, 10:19:21] Rakesh Rao: Achaa
+[03/08/24, 10:19:30] Rakesh Rao: Mast re
+[03/08/24, 10:19:33] Subodh Nadkar😁 (Imarticus Class): haa abhyas nhi jhalay
+[03/08/24, 10:19:37] Rakesh Rao: Mala pan gheun chal
+[03/08/24, 10:19:44] Subodh Nadkar😁 (Imarticus Class): ye bhai
+[03/08/24, 10:21:29] Rakesh Rao: Seriously man
+[18/08/24, 08:42:46] Rakesh Rao: Bhai
+[18/08/24, 08:43:08] Rakesh Rao: Class chalu Zala ka ?
+[21/08/24, 10:46:06] Rakesh Rao: Subhodddddddddd
+‎[21/08/24, 22:09:22] Rakesh Rao: ‎image omitted
+‎[21/08/24, 22:12:02] Rakesh Rao: ‎image omitted
+[23/08/24, 21:16:29] Rakesh Rao: Bro Khute ahais??
+[24/08/24, 23:51:01] Subodh Nadkar😁 (Imarticus Class): https://youtube.com/@fastrackielts?feature=shared
+[24/08/24, 23:51:01] Subodh Nadkar😁 (Imarticus Class): https://youtu.be/Jf1OvqVwi1U?feature=shared
+[24/08/24, 23:51:02] Subodh Nadkar😁 (Imarticus Class): https://youtu.be/MU8xhYgHT0U?feature=shared
+[24/08/24, 23:51:02] Subodh Nadkar😁 (Imarticus Class): https://youtu.be/T9vuXPKUc-8?feature=shared
+[24/08/24, 23:53:11] Subodh Nadkar😁 (Imarticus Class): https://youtu.be/7jhXU0iDgFQ?si=mh_UQc3EGlW6vY5g
+[24/08/24, 23:53:40] Subodh Nadkar😁 (Imarticus Class): in this channel you will get all the template
+[24/08/24, 23:53:48] Subodh Nadkar😁 (Imarticus Class): just ek baar dekh ke jana
+[25/08/24, 00:12:10] Rakesh Rao: Ok
+‎[26/08/24, 19:59:08] Rakesh Rao: Safari.pdf • ‎2 pages ‎document omitted
+‎[26/08/24, 20:13:31] Subodh Nadkar😁 (Imarticus Class): index.pdf • ‎1 page ‎document omitted
+[31/08/24, 09:37:40] Subodh Nadkar😁 (Imarticus Class): https://drive.google.com/drive/u/0/folders/1j6YWcEZcNgtpkYXvmAYIqCIFylGxNeIi
+[01/09/24, 08:46:47] Rakesh Rao: Khute ahais ??
